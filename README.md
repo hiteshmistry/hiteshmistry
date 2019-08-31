@@ -1,4 +1,3 @@
-# Welcome to my personal page!
 I'm a Software Developer with several years of experience in Microsoft technologies. Experience in creating Desktop, Web and Mobile based solutions.
 
 As a developer I always inclined towards quality of software code, because in the end good quality code brings a good product.
